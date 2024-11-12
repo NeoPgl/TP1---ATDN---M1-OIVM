@@ -1,0 +1,5 @@
+Bibliothèques : NumPy, Pandas, Matplotlib, scikit-learn, et Seaborn + Kaggle
+
+
+
+pip install numpy pandas matplotlib scikit-learn seaborn kaggle
